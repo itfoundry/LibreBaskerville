@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="602"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="350" y="0" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="597" y="35" type="line"/>
+      <point x="553" y="35"/>
+      <point x="530" y="46"/>
+      <point x="491" y="90" type="curve" smooth="yes"/>
+      <point x="302" y="304" type="line"/>
+      <point x="453" y="442" type="line" smooth="yes"/>
+      <point x="502" y="486"/>
+      <point x="522" y="495"/>
+      <point x="571" y="495" type="curve"/>
+      <point x="571" y="530" type="line"/>
+      <point x="311" y="530" type="line"/>
+      <point x="311" y="495" type="line"/>
+      <point x="369" y="495"/>
+      <point x="389" y="490"/>
+      <point x="389" y="475" type="curve" smooth="yes"/>
+      <point x="389" y="460"/>
+      <point x="368" y="435"/>
+      <point x="303" y="372" type="curve" smooth="yes"/>
+      <point x="210" y="281" type="line"/>
+      <point x="210" y="550" type="line"/>
+      <point x="32" y="512" type="line"/>
+      <point x="32" y="478" type="line"/>
+      <point x="120" y="478"/>
+      <point x="130" y="466"/>
+      <point x="130" y="360" type="curve" smooth="yes"/>
+      <point x="130" y="152" type="line" smooth="yes"/>
+      <point x="130" y="56"/>
+      <point x="113" y="35"/>
+      <point x="34" y="35" type="curve"/>
+      <point x="34" y="0" type="line"/>
+      <point x="303" y="0" type="line"/>
+      <point x="303" y="35" type="line"/>
+      <point x="225" y="35"/>
+      <point x="210" y="55"/>
+      <point x="210" y="159" type="curve" smooth="yes"/>
+      <point x="210" y="218" type="line"/>
+      <point x="247" y="253" type="line"/>
+      <point x="353" y="125" type="line" smooth="yes"/>
+      <point x="392" y="78"/>
+      <point x="402" y="62"/>
+      <point x="402" y="50" type="curve" smooth="yes"/>
+      <point x="402" y="38"/>
+      <point x="392" y="35"/>
+      <point x="350" y="35" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

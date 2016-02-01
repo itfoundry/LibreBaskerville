@@ -1,0 +1,67 @@
+feature liga {
+	sub f f i by f_f_i;
+	sub f f l by f_f_l;
+	sub f f b by f_f_b;
+	sub f f h by f_f_h;
+	sub f f j by f_f_j;
+	sub f f k by f_f_k;
+	sub f f t by f_f_t;
+	sub f f by f_f ;
+	sub f i by f_i ;
+	sub f l by f_l ;
+	sub f b by f_b;
+	sub f h by f_h;
+	sub f j by f_j;
+	sub f k by f_k; 
+	sub f t by f_t;
+} liga;
+
+feature dlig {
+	sub c t by c_t; 
+	sub s p by s_p;
+	sub s t by s_t;
+} dlig;
+
+feature frac {
+	sub one [slash fraction] two by onehalf;
+	sub one [slash fraction] three by onethird;
+	sub one [slash fraction] four by onequarter;
+	sub one [slash fraction] eight by oneeighth;
+	sub two [slash fraction] three by twothirds;
+	sub three [slash fraction] four by threequarters;
+	sub three [slash fraction] eight by threeeighths;
+	sub five [slash fraction] eight by fiveeighths;
+	sub seven [slash fraction] eight by seveneighths;
+} frac;
+
+feature sinf {
+	sub zero by zeroinferior;
+	sub one by oneinferior;
+	sub two by twoinferior;
+	sub three by threeinferior;
+	sub four by fourinferior;
+	sub five by fiveinferior;
+	sub six by sixinferior;
+	sub seven by seveninferior;
+	sub eight by eightinferior;
+	sub nine by nineinferior;
+} sinf;
+
+feature sups {
+	sub zero by zerosuperior;
+	sub one by onesuperior;
+	sub two by twosuperior;
+	sub three by threesuperior;
+	sub four by foursuperior;
+	sub five by fivesuperior;
+	sub six by sixsuperior;
+	sub seven by sevensuperior;
+	sub eight by eightsuperior;
+	sub nine by ninesuperior;
+} sups;
+
+feature ordn {
+	sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+	sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
